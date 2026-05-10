@@ -108,3 +108,5 @@ if (isLoggedIn || age>=21) {
     console.log("Condition 3 is NOT met");
 }
 
+// ========================[Here ends the Second Chapter]========================
+
