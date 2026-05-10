@@ -103,6 +103,7 @@ console.log(`a = ${a}, b = ${b}`);
 
 // ========================[Task 7]========================
 console.log("========================[Task 7]========================");
+
 // The expected output for each in order. before running the code.
 // "hello"   ┃┃ TRUE
 //   ""      ┃┃ FALSE
